@@ -1,5 +1,14 @@
 #! ~/anaconda3/envs/cygnss/bin/python
 
+''' 
+Auth: Jiawei Zheng, GNSS Research Center, Wuhan University
+Cont: jwzheng@whu.edu.cn
+Github: https://github.com/jwzhengWHU
+Profile: http://panda.whu.edu.cn/info/1329/1401.htm
+ResearchGate: https://www.researchgate.net/profile/Jiawei-Zheng-4
+GoogleScholar: https://scholar.google.com.hk/citations?user=0Te3Ps0AAAAJ&hl=zh-CN
+'''
+
 from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
 import numpy as np
