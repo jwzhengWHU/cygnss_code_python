@@ -1,3 +1,12 @@
+''' 
+Auth: Jiawei Zheng, GNSS Research Center, Wuhan University
+Cont: jwzheng@whu.edu.cn
+Github: https://github.com/jwzhengWHU
+Profile: http://panda.whu.edu.cn/info/1329/1401.htm
+ResearchGate: https://www.researchgate.net/profile/Jiawei-Zheng-4
+GoogleScholar: https://scholar.google.com.hk/citations?user=0Te3Ps0AAAAJ&hl=zh-CN
+'''
+
 import os
 os.environ['PROJ_LIB']='~/anaconda3/pkgs/proj4-5.2.0-h295c915_1001/share/proj'
 from mpl_toolkits.basemap import Basemap
