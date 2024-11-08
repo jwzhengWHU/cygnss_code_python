@@ -1,5 +1,5 @@
 CYGNSS Data Processing  
-This Python code was written by the author purely out of interest, and the research direction is not focused on satellite-based GNSS-R. Therefore, the accuracy of the code cannot be fully guaranteed. Fellow researchers are advised to use it with caution.  
+This Python code was written by the author purely out of interest, and the research direction is not focused on satellite-based GNSS-R. Therefore, the accuracy of the code cannot be fully guaranteed. ~Fellow researchers are advised to use it with caution.~  
 Contact: jwzheng@whu.edu.cn  
 ~~If the code is helpful to you, please consider giving it a star. Thank you very much!~  
   
